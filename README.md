@@ -1,6 +1,6 @@
 # Open Source Tools
 
-An index of the Open Source tools we maintain for various ecosystems.
+An index of the Open Source tools [our organisation link] maintain for various ecosystems.
 
 ## Prometheus
 
@@ -13,6 +13,6 @@ An index of the Open Source tools we maintain for various ecosystems.
 
 # Contribution History
 
-List of projects on which we contribute.
+List of projects on which [our organisation link] contribute.
 
 - ...

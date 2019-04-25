@@ -5,7 +5,7 @@ An index of the Open Source tools [our organisation link] maintain for various e
 ## Prometheus
 
 ### AlertManager webhook receivers
-- [Rocket.Chat webhook](https://github.com/FXinnovation/alertmanager-webhook-rocketchat) : forward alerts from Prometheus AlertManager to Rocket.Chat.
+- [Rocket.Chat AlertManager webhook](https://github.com/FXinnovation/alertmanager-webhook-rocketchat) : forward alerts from Prometheus AlertManager to Rocket.Chat.
 
 ### Development templates
 - [AlertManager webhook template](https://github.com/FXinnovation/alertmanager-webhook-template) : for quick development of Go lang AlertManager webhook receivers.
@@ -15,4 +15,5 @@ An index of the Open Source tools [our organisation link] maintain for various e
 
 List of projects on which [our organisation link] contribute.
 
-- ...
+- [Azure Metrics Exporter](https://github.com/RobustPerception/azure_metrics_exporter)
+- [Rocket.Chat Go SDK](https://github.com/RocketChat/Rocket.Chat.Go.SDK)
